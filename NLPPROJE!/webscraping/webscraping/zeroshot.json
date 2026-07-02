@@ -1,0 +1,4130 @@
+{
+    "reviews": [
+      {
+        "text": "I used hot chocolate mix instead of cocoa powder because I don’t have cocoa powder.. will it taste the same?",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I used hot chocolate mix instead of cocoa powder because I don’t have cocoa powder"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "will it taste the same?"
+          }
+        ]
+      },
+      {
+        "text": "What would be the ingredient measurements if I use a 9x13-inch tray? Thank you.",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "What would be the ingredient measurements if I use a 9x13-inch tray?"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you"
+          }
+        ]
+      },
+      {
+        "text": "John how can I convert recipes to grams. It seems that all the charts online vary. For example a lot of charts list flour at 124 and 148 some are 120.? Love your channel. I retired 2 years ago and started to learn baking. You are my channel of choice. Thank you for the content.",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "how can I convert recipes to grams. It seems that all the charts online vary"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Love your channel. You are my channel of choice. Thank you for the content"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I retired 2 years ago and started to learn baking"
+          }
+        ]
+      },
+      {
+        "text": "Great insider tips for making your brownies extra fudgy, John!  My preference is with walnuts and I follow America's Test Kitchen's tip of sprinkling them on top so they get crisp and toasted. If mixed into the batter, they get steamed which is not as pleasing to the palate.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Great insider tips for making your brownies extra fudgy"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "positive",
+            "mention": "My preference is with walnuts and I follow America's Test Kitchen's tip of sprinkling them on top so they get crisp and toasted"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "negative",
+            "mention": "If mixed into the batter, they get steamed which is not as pleasing to the palate"
+          }
+        ]
+      },
+      {
+        "text": "These brownies look amazing",
+        "aspects": [
+          {
+            "category": "Presentation/Visual Appeal",
+            "sentiment": "positive",
+            "mention": "These brownies look amazing"
+          }
+        ]
+      },
+      {
+        "text": "I made this recipe and it turned out amazing! Thank you for this recipe. It’s delicious",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I made this recipe and it turned out amazing"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "It’s delicious"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you for this recipe"
+          }
+        ]
+      },
+      {
+        "text": "I love it looks so delicious",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "I love it"
+          },
+          {
+            "category": "Presentation/Visual Appeal",
+            "sentiment": "positive",
+            "mention": "looks so delicious"
+          }
+        ]
+      },
+      {
+        "text": "I made your brownies today and let me tell you they were brilliant. Thank you for the amazing recipe.",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I made your brownies today and let me tell you they were brilliant"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you for the amazing recipe"
+          }
+        ]
+      },
+      {
+        "text": "I made these today, and they were a hit!",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I made these today, and they were a hit"
+          }
+        ]
+      },
+      {
+        "text": "Hi John, one of the MANY, MANY things I love about you and your channel is all the amazing tips you give, not just the recipe. I’ve learned an incredible amount from you and your astronomical amount of subscribers proves many people agree with me! ….. thank you xxxxxxxx",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "one of the MANY, MANY things I love about you and your channel is all the amazing tips you give"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I’ve learned an incredible amount from you"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "your astronomical amount of subscribers proves many people agree with me"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "thank you xxxxxxxx"
+          }
+        ]
+      },
+      {
+        "text": "I have always loved to bake and I am really enjoying your channel. I have tried many of your recipes and they are so successful and delicious.  I love your scientific approach. Please keep up the good work and thank you",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I have always loved to bake and I am really enjoying your channel"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they are so successful and delicious"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I love your scientific approach"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Please keep up the good work and thank you"
+          }
+        ]
+      },
+      {
+        "text": "Trying this rn I don’t got chocolate or expresso so hopefully it’s still lovely",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I don’t got chocolate or expresso"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "hopefully it’s still lovely"
+          }
+        ]
+      },
+      {
+        "text": "These are honestly the best recipe from John EVER I've made it 10 times and everyone keeps asking for more",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "These are honestly the best recipe from John EVER"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I've made it 10 times and everyone keeps asking for more"
+          }
+        ]
+      },
+      {
+        "text": "Anyone can call their brownies the best brownies but these have to actually be the best brownies, it's been my go-to recipe since I started baking and people love it every single time",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "these have to actually be the best brownies"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "it's been my go-to recipe since I started baking"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "people love it every single time"
+          }
+        ]
+      },
+      {
+        "text": "This chef is amazing!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "This chef is amazing"
+          }
+        ]
+      },
+      {
+        "text": "I find that whisking the sugar with the warm melted butter gives me the fudgiest brownies. Don't overdo it though, just until the sugar disappears. Then adding the eggs, also it's better to do it with a wooden spoon and not a whisk. This way you avoid overbeating the eggs. But this is just my way. It doesn't mean others are not also good.",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "positive",
+            "mention": "whisking the sugar with the warm melted butter gives me the fudgiest brownies"
+          },
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "neutral",
+            "mention": "Don't overdo it though, just until the sugar disappears"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "adding the eggs, also it's better to do it with a wooden spoon and not a whisk"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "it doesn't mean others are not also good"
+          }
+        ]
+      },
+      {
+        "text": "I made it today. I got the recipe on your site. My 4-year-old granddaughter told me: 'It is the best brownie ever'",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I made it today"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "It is the best brownie ever"
+          }
+        ]
+      },
+      {
+        "text": "226g melted butter\n75g cocoa powder\n400g sugar\n1 teaspoon instant espresso\n3 large eggs\n1 tablespoon vanilla\n1 tsp salt\n\n270g chocolate chips\n120g all-purpose flour",
+        "aspects": [
+          {
+            "category": "Recipe Ingredients",
+            "sentiment": "neutral",
+            "mention": "226g melted butter, 75g cocoa powder, 400g sugar, etc."
+          }
+        ]
+      },
+      {
+        "text": "Every time I want to bake I come to this channel",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Every time I want to bake I come to this channel"
+          }
+        ]
+      },
+      {
+        "text": "Thank you for this recipe.. I have to confess, I had to watch again because of John’s nice calm voice, I fell asleep. Thanks to those who typed out the recipe",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you for this recipe"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "I had to watch again because of John’s nice calm voice, I fell asleep"
+          }
+        ]
+      },
+      {
+        "text": "AH-MAY-ZING!!! Edges and top are chewey and the inside is oh so gooey!!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Edges and top are chewey and the inside is oh so gooey"
+          }
+        ]
+      },
+      {
+        "text": "Will reducing the sugar to about half from the orig recipe change the texture of the brownie?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Will reducing the sugar to about half from the orig recipe change the texture of the brownie?"
+          }
+        ]
+      },
+      {
+        "text": "I try this recipe its turn out amazingly delicious. My family love it asking for more & more….. thank you so much",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "its turn out amazingly delicious"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "My family love it asking for more & more"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "thank you so much"
+          }
+        ]
+      },
+      {
+        "text": "I don't really like brownies, but I am making these for my bf because he LOVES brownies! Thank you for making the recipe so easy to follow! They're in the oven right now... cross your fingers for me!",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Thank you for making the recipe so easy to follow"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "I don't really like brownies, but I am making these for my bf because he LOVES brownies"
+          }
+        ]
+      },
+      {
+        "text": "Hello, John. I'm from the Philippines and I saw your video yesterday and now I try your recipe. I didn't expect it to be an amazing brownies. This is the fudgiest brownies that I tasted before.",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I saw your video yesterday and now I try your recipe"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "This is the fudgiest brownies that I tasted before"
+          }
+        ]
+      },
+      {
+        "text": "I made this and insurance won't cover my house.",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "I made this and insurance won't cover my house"
+          }
+        ]
+      },
+      {
+        "text": "What alternative can I use for eggs",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "What alternative can I use for eggs"
+          }
+        ]
+      },
+      {
+        "text": "I made your brownies just one hour ago and i ate rn. This most unrealistic brownies i ever ate. Thank you so muchh for this recipe",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I made your brownies just one hour ago and i ate rn"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "This most unrealistic brownies i ever ate"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you so muchh for this recipe"
+          }
+        ]
+      },
+      {
+        "text": "I love these brownies. I followed the recipe to the tee and they have come out perfect. Thank you so so much for sharing this recipe",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "I love these brownies"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I followed the recipe to the tee and they have come out perfect"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you so so much for sharing this recipe"
+          }
+        ]
+      },
+      {
+        "text": "I love you so much! You are the light of my life. I hope you keep teaching us to bake wonderful food for forever and ever and ever",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I love you so much! You are the light of my life"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I hope you keep teaching us to bake wonderful food for forever and ever and ever"
+          }
+        ]
+      },
+      {
+        "text": "Absolutely gorgeous to look at and delicious to eat. Question depending on what kind of salt you use is there a measurement difference?  Thank you for sharing and keep on caking",
+        "aspects": [
+          {
+            "category": "Presentation/Visual Appeal",
+            "sentiment": "positive",
+            "mention": "Absolutely gorgeous to look at"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "delicious to eat"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "depending on what kind of salt you use is there a measurement difference"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you for sharing and keep on caking"
+          }
+        ]
+      },
+      {
+        "text": "LOST of WORDS John Wow you ROCK God be with your family",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Wow you ROCK God be with your family"
+          }
+        ]
+      },
+      {
+        "text": "I’m stuck inside due to a snow storm and I’ve baked three of recipes in three days",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I’ve baked three of recipes in three days"
+          }
+        ]
+      },
+      {
+        "text": "What brand of dutch process cocoa powder do you typically use?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "What brand of dutch process cocoa powder do you typically use?"
+          }
+        ]
+      },
+      {
+        "text": "I am trying to learn cooking so I can make these for xMas and this video is great!\nVery easy to follow and very well explained, so that even a dum dum like me can do it!\nI also love the link for the recipe, thank you!",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I am trying to learn cooking so I can make these for xMas"
+          },
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "positive",
+            "mention": "Very easy to follow and very well explained"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "thank you"
+          }
+        ]
+      },
+      {
+        "text": "226 g butter \n75 g cocoa powder\n400 g granulated sugar \n1 tea spoon of instant coffee\n3 large eggs\n1 tbl. spoon of vanilla \n1 tea spoon of salt (really tea spoon)\n270 g chocolate (dark or milky)\nnuts (wallnuts or pekans)\n120 g all purpose flour",
+        "aspects": [
+          {
+            "category": "Recipe Ingredients",
+            "sentiment": "neutral",
+            "mention": "226 g butter, 75 g cocoa powder, etc."
+          }
+        ]
+      },
+      {
+        "text": "And to think I was just thinking yesterday that I need to find just the right recipe for brownies, and today here it is! I am so going to bake these tomorrow with my others desserts for Thanksgiving!",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I need to find just the right recipe for brownies, and today here it is!"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I am so going to bake these tomorrow with my others desserts for Thanksgiving"
+          }
+        ]
+      },
+      {
+        "text": "I tried your recipe today. It turned out well but the amount of sugar is a lot for me, what can I substitute the sugar with without compromising the taste?",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "It turned out well"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "what can I substitute the sugar with without compromising the taste?"
+          }
+        ]
+      },
+      {
+        "text": "Very nice brownie recipe John! They look amazing! Brownies is my favourite dessert! Thanks for this amazing recipe! Have a nice day!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "They look amazing"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thanks for this amazing recipe"
+          }
+        ]
+      },
+      {
+        "text": "Excellent recipe! Thanks, John.\nHappy Giving of Thanks Day ( as my family says it! ) to you and your family!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thanks, John"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Happy Giving of Thanks Day to you and your family"
+          }
+        ]
+      },
+      {
+        "text": "Incredible recipe! The brownies came out perfect. This is a great tutorial with really easy to follow instructions, this is my second recipe’s of John’s I’m trying (after the chocolate lava cakes which were also amazing) - I will definitely be trying more!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "The brownies came out perfect"
+          },
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "positive",
+            "mention": "really easy to follow instructions"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I will definitely be trying more"
+          }
+        ]
+      },
+      {
+        "text": "I have never made brownies before. But after following his very clear direction I can honestly say these are the best brownies I’ve ever eaten, let alone made. My wife agrees! I love how he explains why to use certain techniques.",
+        "aspects": [
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "positive",
+            "mention": "very clear direction"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "these are the best brownies I’ve ever eaten"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "My wife agrees"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I love how he explains why to use certain techniques"
+          }
+        ]
+      },
+      {
+        "text": "Tysm John this is a lifesaver",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Tysm John this is a lifesaver"
+          }
+        ]
+      },
+      {
+        "text": "These made me cry a little bit. Brilliant brother.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "These made me cry a little bit"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Brilliant brother"
+          }
+        ]
+      },
+      {
+        "text": "Will it taste great if I don’t use the vanilla?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Will it taste great if I don’t use the vanilla?"
+          }
+        ]
+      },
+      {
+        "text": "Best brownie my first time baking it is so delicious it is just a little too sweet so we can reduce the sugar a little",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Best brownie my first time baking it is so delicious"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "it is just a little too sweet so we can reduce the sugar a little"
+          }
+        ]
+      },
+      {
+        "text": "I tried the first time. It's too sweet for me, but I suppose it is OK for most people. My husband likes it.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "negative",
+            "mention": "It's too sweet for me"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "I suppose it is OK for most people"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "My husband likes it"
+          }
+        ]
+      },
+      {
+        "text": "Mmmmm I love fudgy brownies! John could you help me out making my baked goods lactose free? Several friends of mine became lactose intolerant due to different reasons…",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "I love fudgy brownies"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "John could you help me out making my baked goods lactose free?"
+          }
+        ]
+      },
+      {
+        "text": "I tried this recipe and it was Yummylicious",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it was Yummylicious"
+          }
+        ]
+      },
+      {
+        "text": "I made brownies for the first time with this recipe and it was soooo delicious, I was shocked and so happy!!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it was soooo delicious"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I was shocked and so happy"
+          }
+        ]
+      },
+      {
+        "text": "please do I need not add baking powder because I didn't see it in the recipe?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "do I need not add baking powder because I didn't see it in the recipe?"
+          }
+        ]
+      },
+      {
+        "text": "my first time making brownies (yes novice adult here) and they turned out just perfect",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they turned out just perfect"
+          }
+        ]
+      },
+      {
+        "text": "I made it today they came out perfect very delicious thanks for sharing the rcp",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they came out perfect very delicious"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "thanks for sharing the rcp"
+          }
+        ]
+      },
+      {
+        "text": "I have only put 200g of sugar and it was perfect to my liking :) Next time I'll cook it for only 25min for the extra fudgyness cause my oven messed it up",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "positive",
+            "mention": "I have only put 200g of sugar and it was perfect to my liking"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "Next time I'll cook it for only 25min for the extra fudgyness"
+          }
+        ]
+      },
+      {
+        "text": "I'm about to put the cake in the oven, I really hope it turns out good and tasty like yours.",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "I really hope it turns out good and tasty like yours"
+          }
+        ]
+      },
+      {
+        "text": "Butter \n75 gram cocoa \nGranulated sugar\nEspresso\nSift out \nWhisk\n3 eggs\n1 t spoon vanilla\n1 t salt\n1 and half cup chocolate\n120 gram flour",
+        "aspects": [
+          {
+            "category": "Recipe Ingredients",
+            "sentiment": "neutral",
+            "mention": "Butter, cocoa, granulated sugar, etc."
+          }
+        ]
+      },
+      {
+        "text": "I made this yesterday they came out amazing",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they came out amazing"
+          }
+        ]
+      },
+      {
+        "text": "I tried it and obvi the outside is crispy and a little cake-like but the inside was fudgy and moist but I didn’t really get the crackly top which I’m fine with",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "the inside was fudgy and moist"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "neutral",
+            "mention": "I didn’t really get the crackly top which I’m fine with"
+          }
+        ]
+      },
+      {
+        "text": "Definitely gotta make these for the family for Christmas!!",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Definitely gotta make these for the family for Christmas"
+          }
+        ]
+      },
+      {
+        "text": "Im inside your house john",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "Im inside your house john"
+          }
+        ]
+      },
+      {
+        "text": "I tried the recipe and it tasted amazing",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it tasted amazing"
+          }
+        ]
+      },
+      {
+        "text": "Baked it with my daughter yesterday. They are already eaten:) Great recipe. I would just reduce amount of butter a bit next time (as bit too oily for me) and 300g sugar is plenty for us. Sprinkled bit of rocky salt on top. So tasty",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Baked it with my daughter yesterday. They are already eaten"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I would just reduce amount of butter a bit next time"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "So tasty"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "300g sugar is plenty for us"
+          }
+        ]
+      },
+      {
+        "text": "This is the only baking channel I need.",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "This is the only baking channel I need"
+          }
+        ]
+      },
+      {
+        "text": "The brownies look incredible..OMG imagine the taste.",
+        "aspects": [
+          {
+            "category": "Presentation/Visual Appeal",
+            "sentiment": "positive",
+            "mention": "The brownies look incredible"
+          }
+        ]
+      },
+      {
+        "text": "If you're concerned about shells, hold the egg 4 inches above a hard surface and let go. Immediately pick it up and split over the bowl. I've been feeding people eggshells for over 30 years until I learned to just drop the egg, works every time. Thanks Mr. President!",
+        "aspects": [
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "neutral",
+            "mention": "hold the egg 4 inches above a hard surface and let go"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thanks Mr. President"
+          }
+        ]
+      },
+      {
+        "text": "I made this Brownie they turned out to be the most delicious n decadent ever.. Thank you so much..preppy kitchen",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they turned out to be the most delicious n decadent ever"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you so much"
+          }
+        ]
+      },
+      {
+        "text": "This guy is literally the Bob Ross of baking",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "This guy is literally the Bob Ross of baking"
+          }
+        ]
+      },
+      {
+        "text": "Pure preppy perfection!!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Pure preppy perfection"
+          }
+        ]
+      },
+      {
+        "text": "This is the first video of him I see and I'm already in love with his channel",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I'm already in love with his channel"
+          }
+        ]
+      },
+      {
+        "text": "Honestly, you are the best so I am making these tonight. Everything I have ever made of yours has been great. Thanks.",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Honestly, you are the best"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Everything I have ever made of yours has been great"
+          }
+        ]
+      },
+      {
+        "text": "I have made this brownie recipe and your blueberry cheesecake recipe and I gotta say those are the best brownies and the best cheesecake I and my friends also have ever had, thank you so much for your videos.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "those are the best brownies and the best cheesecake"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "thank you so much for your videos"
+          }
+        ]
+      },
+      {
+        "text": "I made them and they came out absolutely delicious! They were big hits with my family. I ran out of cocoa powder so I only used 1/2 cup and I chose to add in 1 cup of sugar instead so it doesn't get too sweet - came out perfect!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they came out absolutely delicious"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "They were big hits with my family"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I ran out of cocoa powder so I only used 1/2 cup"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "positive",
+            "mention": "I chose to add in 1 cup of sugar instead so it doesn't get too sweet"
+          }
+        ]
+      },
+      {
+        "text": "I made these, I didn't add the chocolate since I didn't have any and I over cooked but didn't over bake my batch, (if that makes sense) I over baked them because they were more cakey than fudgy but they weren't dry. 10/10 definitely recommend, I think this is going to be my new go-to brownie recipe.",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I didn't add the chocolate since I didn't have any"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "neutral",
+            "mention": "they were more cakey than fudgy but they weren't dry"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "10/10 definitely recommend"
+          }
+        ]
+      },
+      {
+        "text": "“Bakes brownies” “eats”",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "“Bakes brownies” “eats”"
+          }
+        ]
+      },
+      {
+        "text": "Can we use oil instead butter, and if yes, then what will be the quantity of oil in this recipe?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Can we use oil instead of butter, and if yes, then what will be the quantity of oil in this recipe?"
+          }
+        ]
+      },
+      {
+        "text": "Thank u so much for the recipe! I will be making these to give out on Christmas season. Lots of love!!!!!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank u so much for the recipe!"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I will be making these to give out on Christmas season"
+          }
+        ]
+      },
+      {
+        "text": "Tried this recipe. It was so good! My whole family loved it",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "It was so good"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "My whole family loved it"
+          }
+        ]
+      },
+      {
+        "text": "Just finished making these. Mine took 55-60min to bake. Looks yummy",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "Mine took 55-60min to bake"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Looks yummy"
+          }
+        ]
+      },
+      {
+        "text": "Absolutely THE BEST!!! This was my 1st go to recipe of John's! Literally Ah-Ah-Ah-mazing! We likie the fudgie\n*Had to edit & add... I don't go to this recipe any longer it's engraved in my brain!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Absolutely THE BEST!!!"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I don't go to this recipe any longer it's engraved in my brain!"
+          }
+        ]
+      },
+      {
+        "text": "I made these and they are super duper mouth watering delicious Thanks a lot for this perfect measurements recipe",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they are super duper mouth watering delicious"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thanks a lot for this perfect measurements recipe"
+          }
+        ]
+      },
+      {
+        "text": "Ha ha yeah Coco powder tends to get everywhere. Pastry chef of 42 yrs now retired, no matter how hard I tried that damn Coco powder always splashed up onto my clean apron ....exact measurements given too and in metric ..perfect",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "Coco powder tends to get everywhere"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "exact measurements given too and in metric ..perfect"
+          }
+        ]
+      },
+      {
+        "text": "Just made this, it turned out perrrrfect",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it turned out perrrrfect"
+          }
+        ]
+      },
+      {
+        "text": "Absolutely! Delicious food is like a magical potion that instantly lifts your spirits!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Delicious food is like a magical potion that instantly lifts your spirits"
+          }
+        ]
+      },
+      {
+        "text": "Looks so good, going to try this recipe! Can I use a glass pan instead of a normal tin? Should I adjust the temperature differently in case I use the glass dish",
+        "aspects": [
+          {
+            "category": "Presentation/Visual Appeal",
+            "sentiment": "positive",
+            "mention": "Looks so good"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Can I use a glass pan instead of a normal tin? Should I adjust the temperature differently in case I use the glass dish"
+          }
+        ]
+      },
+      {
+        "text": "Please make dinner rolls and cup pound cake for kids you made my life wonderful through your recipes. Love from Pakistan",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "you made my life wonderful through your recipes"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Please make dinner rolls and cup pound cake for kids"
+          }
+        ]
+      },
+      {
+        "text": "Made this tonight, came out so well! Thank you!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "came out so well"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you"
+          }
+        ]
+      },
+      {
+        "text": "I don’t have any vanilla extract, would this affect the flavor of the brownies a lot?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "I don’t have any vanilla extract, would this affect the flavor of the brownies a lot?"
+          }
+        ]
+      },
+      {
+        "text": "Thanks for your recipes. Truly.️ When ever I struggle with any recipes my go to for perfect recipes is you. ️️",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thanks for your recipes"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "When ever I struggle with any recipes my go to for perfect recipes is you"
+          }
+        ]
+      },
+      {
+        "text": "Is it ok to reduce the sugar amount in this recipe? \nThanks",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Is it ok to reduce the sugar amount in this recipe?"
+          }
+        ]
+      },
+      {
+        "text": "Hi! I have making your brownies with chocolate chips for a few years now and it’s always a great hit! Now I’m going to do it with the block of chocolate. I love your cook book too. I hope you do another one with traditional desserts including your brownie recipe",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "making your brownies with chocolate chips for a few years now and it’s always a great hit"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I love your cook book too. I hope you do another one with traditional desserts"
+          }
+        ]
+      },
+      {
+        "text": "How baking brownies usually goes for me\n\nPrep and Pouring: \nMixing: ️\nBaking Process: \n\n\nCutting: 🫠🫠🫠🫠🫠🫠🫠🫠🫠🫠🫠🫠🫠",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "How baking brownies usually goes for me"
+          }
+        ]
+      },
+      {
+        "text": "This recipe looks amazing I look forward to making it on Friday……thanks so much for sharing. Happy Thanksgiving",
+        "aspects": [
+          {
+            "category": "Presentation/Visual Appeal",
+            "sentiment": "positive",
+            "mention": "This recipe looks amazing"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "thanks so much for sharing"
+          }
+        ]
+      },
+      {
+        "text": "Omg I followed your recipe exactly and these brownies were so so good and chewy just the I like them thank you",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "these brownies were so so good and chewy just the way I like them"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "thank you"
+          }
+        ]
+      },
+      {
+        "text": "I'm about to make these now. I made John's cookie brownies, and they were amazing. I know these will be too.",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I made John's cookie brownies, and they were amazing"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I know these will be too"
+          }
+        ]
+      },
+      {
+        "text": "Hi can I add in half butter n half oil in d mixture? Tq",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "can I add in half butter n half oil in d mixture?"
+          }
+        ]
+      },
+      {
+        "text": "Omg, me and my cuz made this for a sleepover and it was AMAZING!! It was a huge hit in our family, and everyone absolutely loved it!!",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "me and my cuz made this for a sleepover and it was AMAZING"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "It was a huge hit in our family"
+          }
+        ]
+      },
+      {
+        "text": "Recipe\n\n1 cup or grams butter\n1/3 cup or 75 grams cocoa powder \n2 cups or 400 grams granulated sugar\n1 tsp instant espresso (optional)\n3 large eggs\n1 tbsp or 15 mL vanilla essence\n1 tsp salt\n1 and 1/2 cup or 270 grams dark/milk/semi-sweet chocolate OR using the same measurement, chocolate chips can also be used\n1 cup flour",
+        "aspects": [
+          {
+            "category": "Recipe Ingredients",
+            "sentiment": "neutral",
+            "mention": "1 cup or grams butter, 75 grams cocoa powder, etc."
+          }
+        ]
+      },
+      {
+        "text": "I made this recipe 2 months ago and it came out DELICIOUS. It was fudgy and chewy and chocolaty but today when I tried making it, it came out dense, dry af and sort of cake-like texture. Even tho I’ve made brownies several times this thing never happened with me, I followed the recipe to the point can anyone tell me what mistake I made!!??",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "It was fudgy and chewy and chocolaty"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "negative",
+            "mention": "it came out dense, dry af and sort of cake-like texture"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "can anyone tell me what mistake I made?"
+          }
+        ]
+      },
+      {
+        "text": "I'm watching this, because I had a brownie fail, not even vanilla ice cream could save it. I'm better at dinners than I am baking any pastries Love your channel btw.",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "negative",
+            "mention": "I had a brownie fail, not even vanilla ice cream could save it"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Love your channel btw"
+          }
+        ]
+      },
+      {
+        "text": "I made this and it came out so well, it didn't even get some time to rest on the counter",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it came out so well"
+          }
+        ]
+      },
+      {
+        "text": "Thanks for this recipe. Your suggestions and tips really work.",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thanks for this recipe"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Your suggestions and tips really work"
+          }
+        ]
+      },
+      {
+        "text": "Honestly, Best baking channel",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Best baking channel"
+          }
+        ]
+      },
+      {
+        "text": "Love Love Love you previous brownie recipe... I'm very excited to try this and a sure that this one is gonna be a hit as well...",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Love Love Love your previous brownie recipe"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I'm very excited to try this and a sure that this one is gonna be a hit as well"
+          }
+        ]
+      },
+      {
+        "text": "You are a Genius John ! Love your recipes !",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "You are a Genius John"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Love your recipes"
+          }
+        ]
+      },
+      {
+        "text": "Thank you so much \nI did it today for my school carnival and it was so good yall this guy's recipe is no cap",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you so much"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I did it today for my school carnival and it was so good"
+          }
+        ]
+      },
+      {
+        "text": "Thank you John. Second time was even better.",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you John"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Second time was even better"
+          }
+        ]
+      },
+      {
+        "text": "The cake of the brownie is the best that I saw in my life. And I think it’s so scrumptious",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "The cake of the brownie is the best that I saw in my life"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "I think it’s so scrumptious"
+          }
+        ]
+      },
+      {
+        "text": "I just tried and oh my god it’s super good with ice cream",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it’s super good with ice cream"
+          }
+        ]
+      },
+      {
+        "text": "I tried your recipe. It was realllllllllllllllllllllllllllly good!!!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "It was realllllllllllllllllllllllllllly good"
+          }
+        ]
+      },
+      {
+        "text": "Omg they were delicious i usally cant bake to save my life but u made it so easy to follow and understand tysm",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they were delicious"
+          },
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "positive",
+            "mention": "u made it so easy to follow and understand"
+          }
+        ]
+      },
+      {
+        "text": "So many amazing receipes here!! Thank you!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "So many amazing recipes here"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you"
+          }
+        ]
+      },
+      {
+        "text": "I just made these today using your recipe and it was awesome. I do have one question: how long it can be stored? Should it be stored in refrigerator?",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it was awesome"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "how long it can be stored? Should it be stored in refrigerator?"
+          }
+        ]
+      },
+      {
+        "text": "I would mix up the chocolate chips to have a combo of semisweet, milk, and bittersweet chocolate. Different levels of flavor gives this more depth and complexity.",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "positive",
+            "mention": "I would mix up the chocolate chips to have a combo of semisweet, milk, and bittersweet chocolate"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Different levels of flavor gives this more depth and complexity"
+          }
+        ]
+      },
+      {
+        "text": "I love the way he explained, straight to the point. Generous to share his ideas, techniques, amounts of ingredients not like other Baking show. Keep up the good work Sir! God Bless!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I love the way he explained, straight to the point"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Generous to share his ideas, techniques, amounts of ingredients"
+          }
+        ]
+      },
+      {
+        "text": "one of the MANY, MANY things I love about you and your channel is all the amazing tips you give, not just the recipe. I’ve learned an incredible amount from you and your astronomical amount of subscribers proves many people agree with me! thank you",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "one of the MANY, MANY things I love about you and your channel is all the amazing tips you give"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I’ve learned an incredible amount from you"
+          }
+        ]
+      },
+      {
+        "text": "0:33 did anyone notice how he said oven",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "0:33 did anyone notice how he said oven"
+          }
+        ]
+      },
+      {
+        "text": "226 g - butter\n270 g - chocolate\n120 g - flour\n75 g - cocoa powder\n400 g - sugar \n3 large eggs\n15 ml - vanilla\n1 full teaspoon of salt",
+        "aspects": [
+          {
+            "category": "Recipe Ingredients",
+            "sentiment": "neutral",
+            "mention": "226 g butter, 270 g chocolate, etc."
+          }
+        ]
+      },
+      {
+        "text": "Watching you bake is my happy moment",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Watching you bake is my happy moment"
+          }
+        ]
+      },
+      {
+        "text": "Mine turns out pretty good, the only problem is before baking it, the batter was kinda watery. Then right after baking, the outside is quite ok to slight burn but the inside centre is a bit watery almost like lava texture. Not sure whyyy. \n\nBut taste wise is good, I use 1 cup of brown sugar and 1 cup of granulated sugar",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "taste wise is good"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "Mine turns out pretty good, the only problem is the batter was kinda watery"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I use 1 cup of brown sugar and 1 cup of granulated sugar"
+          }
+        ]
+      },
+      {
+        "text": "I made a perfect brownie! 🥹 I can't believe I made it. One of my friends told about to sell your brownie. Thank yooouuuuuu!!!!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "I made a perfect brownie"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank yooouuuuuu"
+          }
+        ]
+      },
+      {
+        "text": "Hey I am in my kitchen going to try brownies your version. Will let u know how it turned out",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "Hey I am in my kitchen going to try brownies your version"
+          }
+        ]
+      },
+      {
+        "text": "Thank you John they look so delicious and easy to make",
+        "aspects": [
+          {
+            "category": "Presentation/Visual Appeal",
+            "sentiment": "positive",
+            "mention": "they look so delicious"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you John"
+          }
+        ]
+      },
+      {
+        "text": "Advice to people: Use less salt, my brownies taste very salty. Use less coffee, the taste is way too prominent and off.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "negative",
+            "mention": "my brownies taste very salty"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "Use less salt, Use less coffee"
+          }
+        ]
+      },
+      {
+        "text": "Slayyyyyyyy and I love this channel it changes my life️️️🫠️",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I love this channel it changes my life"
+          }
+        ]
+      },
+      {
+        "text": "I made these last night and the texture is so perfect! Thank you for helping me finally settle on the perfect brownie recipe!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "the texture is so perfect"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you for helping me finally settle on the perfect brownie recipe"
+          }
+        ]
+      },
+      {
+        "text": "The espresso is not my bag. Everyone says you can't taste it but I always can and I don't like it. But I'm sensitive to both coffee and bitter. Otherwise this looks like a lovely and easy recipe!\n\nAlso if you're using table salt you should use a little less than the recipe calls for in the majority of cases!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "negative",
+            "mention": "The espresso is not my bag"
+          },
+          {
+            "category": "Presentation/Visual Appeal",
+            "sentiment": "positive",
+            "mention": "this looks like a lovely and easy recipe"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "use a little less than the recipe calls for in the majority of cases"
+          }
+        ]
+      },
+      {
+        "text": "Ima try it I made your strawberry bread omg sooo good Love your recipes!!!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Love your recipes"
+          }
+        ]
+      },
+      {
+        "text": "just made these for my boyfriend for his birthday today. they turned out beautiful and were so delicious! I swirled in some peanut butter in half of the brownies per his request. the whole house smells like chocolate heaven",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they turned out beautiful and were so delicious"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "positive",
+            "mention": "I swirled in some peanut butter in half of the brownies per his request"
+          }
+        ]
+      },
+      {
+        "text": "I’ve made these 3 times now and they are the best brownies ever, whoever I give them too absolutely love them and ask where did I buy them from, I tell them I made them.\n\nSo thank you for a fantastic recipe x",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they are the best brownies ever"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "thank you for a fantastic recipe"
+          }
+        ]
+      },
+      {
+        "text": "Omg these are delicious!! I made them for the Super Bowl as little footballs and they came out perfectly! I got so many compliments! They really scratch the chocolate craving itch lol. Thank you John!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "these are delicious"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you John"
+          }
+        ]
+      },
+      {
+        "text": "Thank you so much for the great recipe! This is for a class project, however, I wanted to advocate for the deaf community and let you know that having closed captions can be extremely helpful when it comes to watching videos, as they can allow for the viewer to better understand what is being said whenever a word is not understood by the automated captions. \nI love your videos and I'm sure that many people in the deaf community also, as your recipes are extremely delicious (have tested and tasted many of them). Have a great day and thank you for reading my comment :)",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you so much for the great recipe"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "your recipes are extremely delicious (have tested and tasted many of them)"
+          }
+        ]
+      },
+      {
+        "text": "I just made these… mind blown. You were right about the espresso. I put coffee in, you can’t taste it, but I feel it definitely brought out the flavours of everything else. 10/10 - so easy and DELICIOUS!!!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it definitely brought out the flavours of everything else"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "10/10 - so easy and DELICIOUS"
+          }
+        ]
+      },
+      {
+        "text": "Hi, I made too much batter. 1) should I freeze the batter? 2) bake it and follow freezing instructions on your website; but how long can they last in the freezer? Thank you so much!!!!!",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "should I freeze the batter? how long can they last in the freezer?"
+          }
+        ]
+      },
+      {
+        "text": "2:15, we saw that xD",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "2:15, we saw that xD"
+          }
+        ]
+      },
+      {
+        "text": "Today i made these brownies and it was awesome and also the top cracky, shiny layer was made but sugar was alot i followed Preppy Kitchen recipe step by step it was overall awesome in taste and looks but i would suggest to everyone who is going to make these brownies that add 1 cup of sugar instead of 2 cups.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it was awesome and also the top cracky, shiny layer was made"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "add 1 cup of sugar instead of 2 cups"
+          }
+        ]
+      },
+      {
+        "text": "Can’t wait to make it",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "Can’t wait to make it"
+          }
+        ]
+      },
+      {
+        "text": "Baked brownies for the first tym and came out to be great.. Thank you so much for the amazing recipe",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Baked brownies for the first time and came out to be great"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you so much for the amazing recipe"
+          }
+        ]
+      },
+      {
+        "text": "Thanks John for sharing such a delicious recipe. My son gobbled up all within. 30 min. However, I prepared it with white butter unsalted. Perhaps you may want to try it with this butter and let me know how it tasted. Keep sharing your delicious recipes and help us all become better bakers",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thanks John for sharing such a delicious recipe"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "My son gobbled up all within 30 min"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I prepared it with white butter unsalted"
+          }
+        ]
+      },
+      {
+        "text": "That was the best video the Bangor one thank you you made my day!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "That was the best video"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "thank you you made my day"
+          }
+        ]
+      },
+      {
+        "text": "This is really a smart video. for anyone who's curious, there are alternatives to chocolate out there and one of them is carob. carob is basically, diet chocolate, it doesn't have any of the texture chocolate does and will make anything it's added to taste bad, because it's basically edible chalk, in that it's naturally salty and has no value as a nutritional item. also it's naturally oily and will cause problems if not handled properly. unless you are allergic to chocolate, avoid carob.",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "there are alternatives to chocolate out there and one of them is carob"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "negative",
+            "mention": "carob doesn't have any of the texture chocolate does and will make anything it's added to taste bad"
+          }
+        ]
+      },
+      {
+        "text": "Hi, Is it okay to substitute the butter with margarine?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Is it okay to substitute the butter with margarine?"
+          }
+        ]
+      },
+      {
+        "text": "I made these but put in only 1 1/4 cups sugar and they came out great!! My coworkers loved them!! Keep on Baking and posting!! I have your cookbook too!!",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "put in only 1 1/4 cups sugar"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they came out great"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "My coworkers loved them"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Keep on Baking and posting"
+          }
+        ]
+      },
+      {
+        "text": "He has the best recipes!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "He has the best recipes"
+          }
+        ]
+      },
+      {
+        "text": "Luv this channel, if possible plz share ingredient measurements. Thanks",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Luv this channel"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "plz share ingredient measurements"
+          }
+        ]
+      },
+      {
+        "text": "YOU WERE RIGHT!!! THEY WERE GONE IN A FLASH!!!!!!!!!! THANK YOU!!!!!!!",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "THEY WERE GONE IN A FLASH"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "THANK YOU"
+          }
+        ]
+      },
+      {
+        "text": "I'm newbie to baking and wanted to give this recipe a try >> sift cocoa powder and sugar into the butter and mix until well combined >> I didn't know whether the butter should be hot when mixing with sugar & cocoa? I put in the hot butter and mix with sugar & cocoa, but it's not combining, hard to mix, my dough get soggy, and the butter is separated from the cocoa mixture, what should I do?",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "I'm newbie to baking and wanted to give this recipe a try"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "I didn't know whether the butter should be hot when mixing with sugar & cocoa"
+          }
+        ]
+      },
+      {
+        "text": "Finally got a crinkle top with your recipe although I did things differently but with the same ingredients. Definitely the best brownies I ever made",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Finally got a crinkle top with your recipe"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Definitely the best brownies I ever made"
+          }
+        ]
+      },
+      {
+        "text": "I love his commentary",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I love his commentary"
+          }
+        ]
+      },
+      {
+        "text": "I have never seen any European butter in any grocery I shop in my life. Thank you so much.",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "I have never seen any European butter in any grocery I shop in my life"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you so much"
+          }
+        ]
+      },
+      {
+        "text": "I love fudgy brownies and these look perfect!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "I love fudgy brownies"
+          },
+          {
+            "category": "Presentation/Visual Appeal",
+            "sentiment": "positive",
+            "mention": "these look perfect"
+          }
+        ]
+      },
+      {
+        "text": "These are unbelievably good I keep coming back to this recipe",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "These are unbelievably good"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I keep coming back to this recipe"
+          }
+        ]
+      },
+      {
+        "text": "Hello Preppy Kitchen \nLove your videos and recipes \nCould I make these brownies in a 9x13 tin by adding an extra half batch batter to the mixture",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Love your videos and recipes"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Could I make these brownies in a 9x13 tin by adding an extra half batch batter to the mixture"
+          }
+        ]
+      },
+      {
+        "text": "Made with. Bunch of small bags of butterscotch, Carmel, dark chocolate and semi chocolate chips melted in the butter (needed to use up leftover chips from Christmas)- OMG! Such a rich flavor/smell!",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "positive",
+            "mention": "Made with butterscotch, Carmel, dark chocolate and semi chocolate chips"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Such a rich flavor/smell"
+          }
+        ]
+      },
+      {
+        "text": "3:43 herbs moving in the back, ghost getting hungry cause sounds delicious",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "3:43 herbs moving in the back, ghost getting hungry"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "sounds delicious"
+          }
+        ]
+      },
+      {
+        "text": "I have to say..I made it, and it was even better than you described.. I love this recipe",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it was even better than you described"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I love this recipe"
+          }
+        ]
+      },
+      {
+        "text": "Hey John \nCan I use electric/stand mixer before adding the flour?\nThank you for the awesome recipe.",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Can I use electric/stand mixer before adding the flour"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you for the awesome recipe"
+          }
+        ]
+      },
+      {
+        "text": "I made these yesterday. Quite possibly the best brownie I have ever had",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Quite possibly the best brownie I have ever had"
+          }
+        ]
+      },
+      {
+        "text": "Fudgy brownies that sounds incredible amazing and your the whole one YouTube I watch love Sam thanks your recipes",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Fudgy brownies that sounds incredible amazing"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "your recipes"
+          }
+        ]
+      },
+      {
+        "text": "John Can u pls tell me a good brand for dutch processed coco powder and a chocolate chips brand to use",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Can u pls tell me a good brand for dutch processed cocoa powder and a chocolate chips brand to use"
+          }
+        ]
+      },
+      {
+        "text": "Highly suggest combining your recipe w/ Alvin's 100h brownies, very good!!!!",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Highly suggest combining your recipe w/ Alvin's 100h brownies"
+          }
+        ]
+      },
+      {
+        "text": "Hey :) What is the difference (in taste, ingredients etc. ...) between this and your fudgy chocolate brownie recipe from three years ago? I made that one pretty often and it tastes amazing!",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "What is the difference between this and your fudgy chocolate brownie recipe from three years ago"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it tastes amazing"
+          }
+        ]
+      },
+      {
+        "text": "Marry me. Also, I have to wonder how many times you have to make a batch of brownies to figure out all these wonderful tricks to get the perfect consistency! Amazing.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "all these wonderful tricks to get the perfect consistency"
+          }
+        ]
+      },
+      {
+        "text": "Brownies turned out to be outstanding made my first today and simply loved it",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Brownies turned out to be outstanding"
+          }
+        ]
+      },
+      {
+        "text": "Edit- John, omg!! I made these yesterday and they turned out soo bloody good! I was in a brownie coma like ugh!! Definitely going to be my go-to brownie recipe from now on! Thank you!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they turned out soo bloody good"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Definitely going to be my go-to brownie recipe from now on"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you"
+          }
+        ]
+      },
+      {
+        "text": "I followed 5 recipes on your channel and it's a bomb!! I tried this today and followed everything and turns out perfect. Omg thank you so much",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I followed 5 recipes on your channel and it's a bomb"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "turns out perfect"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Omg thank you so much"
+          }
+        ]
+      },
+      {
+        "text": "Baking is so much fun with you... every recipe comes out just so perfect......love your simple way .... keep baking.... love eating",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Baking is so much fun with you"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "every recipe comes out just so perfect"
+          }
+        ]
+      },
+      {
+        "text": "Made this last night, they are insanely good!!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they are insanely good"
+          }
+        ]
+      },
+      {
+        "text": "Just tried it and it is delicious",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it is delicious"
+          }
+        ]
+      },
+      {
+        "text": "How do I make them like cake instead of fudgy?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "How do I make them like cake instead of fudgy"
+          }
+        ]
+      },
+      {
+        "text": "I like their way of explaining. They make everything very easy.",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I like their way of explaining"
+          },
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "positive",
+            "mention": "They make everything very easy"
+          }
+        ]
+      },
+      {
+        "text": "Chocolate playlist? SOLD! Bro you got me, I'm lured in. I don't care, I let myself be trapped and see where I end up. Like a decent adventurer.",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Chocolate playlist? SOLD!"
+          }
+        ]
+      },
+      {
+        "text": "I made the exact same brownies and everyone loved it thank you so much.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "everyone loved it"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "thank you so much"
+          }
+        ]
+      },
+      {
+        "text": "Thanks for sharing your video with us preppy",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thanks for sharing your video with us"
+          }
+        ]
+      },
+      {
+        "text": "Omg I need these brownies also, can you make a top 5 favorite cake recipes of all time video for us?!!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "I need these brownies"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "can you make a top 5 favorite cake recipes of all time video for us?"
+          }
+        ]
+      },
+      {
+        "text": "Oven to 350\n\nCube 1 cup or 226 g of butter\nMelt butter and stir in between \nAdd 3/4 cup or 75g of cocoa powder \n2 cups or 400g granulated sugar\n1tsp of instant expresso powder (optional) \nSift\nWhisk vigorously for crackly top\n3 large room temp eggs\n1tbsp of vanilla\n1tsp salt\nWhisk again\nMake sure it’s not that grainy\nChocolate bar, 270 g or 1 and 1/2 cup\n120 g or leveled 1 cup all purpose flour \nMix until flour is just incorporated \nTransfer batter into pan \nBake for 35-40ish mins for fudgy or cakes brownie",
+        "aspects": [
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "neutral",
+            "mention": "Detailed step-by-step instructions provided"
+          }
+        ]
+      },
+      {
+        "text": "This is a chocolate lovers dream Thanks for sharing this recipe with us.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "This is a chocolate lovers dream"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thanks for sharing this recipe with us"
+          }
+        ]
+      },
+      {
+        "text": "Finally found a brownie I love.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Finally found a brownie I love"
+          }
+        ]
+      },
+      {
+        "text": "Hi John!! Thank you for your recipe, I love your style keep it up, and always remember: live, love and most importantly, laugh!!!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I love your style keep it up"
+          }
+        ]
+      },
+      {
+        "text": "I just made it, highly recommend! Absolutely delicious. I toned down the sugar a little tho, because I love brownie with ice cream! This recipe is perfect for beginners!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Absolutely delicious"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I toned down the sugar a little"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "This recipe is perfect for beginners"
+          }
+        ]
+      },
+      {
+        "text": "Best recipe thank you",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Best recipe thank you"
+          }
+        ]
+      },
+      {
+        "text": "You could maybe half the amount of flour with starch, less gluten building + the structure of the baked good is being made with starch mostly anyways :)",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "half the amount of flour with starch"
+          }
+        ]
+      },
+      {
+        "text": "I made it already so yummy",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "so yummy"
+          }
+        ]
+      },
+      {
+        "text": "My go-to brownie recipe. Thanks",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "My go-to brownie recipe"
+          }
+        ]
+      },
+      {
+        "text": "Omg...i love fudge brownies!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "i love fudge brownies"
+          }
+        ]
+      },
+      {
+        "text": "Made these today, they were GREAT!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they were GREAT"
+          }
+        ]
+      },
+      {
+        "text": "I made it yesterday. These are the best brownies that I have ever made!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "These are the best brownies that I have ever made"
+          }
+        ]
+      },
+      {
+        "text": "I didn't think fudge brownies could get any better, but they just did. Thank you, they're in the oven now. Had to stop eating the batter.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "I didn't think fudge brownies could get any better, but they just did"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Had to stop eating the batter"
+          }
+        ]
+      },
+      {
+        "text": "I can’t wait to try this recipe out with my gf ;))))) I’ll edit this to see how this goes later",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "I can’t wait to try this recipe out with my gf"
+          }
+        ]
+      },
+      {
+        "text": "Your videos are so good for beginners. Very in-depth knowledge",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Your videos are so good for beginners"
+          },
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "positive",
+            "mention": "Very in-depth knowledge"
+          }
+        ]
+      },
+      {
+        "text": "Oh my gosh this is perfect Baking channel thank you",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "this is perfect Baking channel"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "thank you"
+          }
+        ]
+      },
+      {
+        "text": "I just made this, it’s really good but I find it super sweet. Next time, I’ll cut down on the sugar and the chocolate chips. I love the texture, so fudgy!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "I love the texture, so fudgy"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "Next time, I’ll cut down on the sugar and the chocolate chips"
+          }
+        ]
+      },
+      {
+        "text": "2nd time making brownies on your channel.",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "2nd time making brownies on your channel"
+          }
+        ]
+      },
+      {
+        "text": "I love your videos. I can't wait to try this one! My partner is highly allergic to wheat, so what could I substitute for the cup of all-purpose flour? Thanks so much!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I love your videos"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "what could I substitute for the cup of all-purpose flour?"
+          }
+        ]
+      },
+      {
+        "text": "This channel's recipes are the ones that I fully trust. So delicious!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "This channel's recipes are the ones that I fully trust"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "So delicious"
+          }
+        ]
+      },
+      {
+        "text": "Plus a glass of almond milk",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "Plus a glass of almond milk"
+          }
+        ]
+      },
+      {
+        "text": "John, you are the most enjoyable baker to watch and learn from! I started a Cottage Foods business from my Florida home last January and your recipes are the best! And UR Funny!!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "you are the most enjoyable baker to watch and learn from"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "your recipes are the best"
+          }
+        ]
+      },
+      {
+        "text": "I'm on a diet right now, and I see a lot of recipes that replace butter with applesauce. What do you think of this? Can you make a video about substitutes for lower calorie recipes?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "What do you think of replacing butter with applesauce?"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Can you make a video about substitutes for lower calorie recipes?"
+          }
+        ]
+      },
+      {
+        "text": "Actually John, regular cocoa powder is the most intense chocolate. The Dutch process neutralizes the acidity creating a slightly milder, smoother chocolate.",
+        "aspects": [
+          {
+            "category": "Recipe Ingredients",
+            "sentiment": "neutral",
+            "mention": "regular cocoa powder is the most intense chocolate"
+          },
+          {
+            "category": "Recipe Ingredients",
+            "sentiment": "neutral",
+            "mention": "The Dutch process neutralizes the acidity"
+          }
+        ]
+      },
+      {
+        "text": "The first time I made these, they came out perfect with the shiny top layer!! The second time, not so great—I used an oven with a fan…does the fan affect the baking process? Help please!!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they came out perfect with the shiny top layer"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "does the fan affect the baking process?"
+          }
+        ]
+      },
+      {
+        "text": "Making this rn bc I’m craving brownies! I’ll update you guys on how it turned out. Update! I’m waiting for oven to heat up before I put it in but the batter is so goooodddd. OKAY IT CAME OUT THE OVEN AND ITS SOO GOODDD 10/10 RECOMMEND",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "ITS SOO GOODDD"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "10/10 RECOMMEND"
+          }
+        ]
+      },
+      {
+        "text": "Best brownie recipe ever! I added a mix of both white chocolate and Wispa chocolate as I did not have the regular milk chocolate. The brownies were so good and fudgy, and the taste was OUT OF THIS WORLD! I highly recommend this recipe. Thank you very much!!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "The brownies were so good and fudgy"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I added a mix of both white chocolate and Wispa chocolate"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I highly recommend this recipe. Thank you very much"
+          }
+        ]
+      },
+      {
+        "text": "These brownies were delightful",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "These brownies were delightful"
+          }
+        ]
+      },
+      {
+        "text": "tried it twice. both times it turned out amazing and delicious \nyou earned a subscribe sir",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "both times it turned out amazing and delicious"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "you earned a subscribe sir"
+          }
+        ]
+      },
+      {
+        "text": "Made them tonight!! FABULOUS, they took about 45 minutes to cook.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "FABULOUS"
+          },
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "neutral",
+            "mention": "they took about 45 minutes to cook"
+          }
+        ]
+      },
+      {
+        "text": "Hey i loved following ur old brownie video this 1 is new and still good but u were more funnier in the previous one, i hope ur ok be happy always ur ace",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "i loved following ur old brownie video"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "this 1 is new and still good but u were more funnier in the previous one"
+          }
+        ]
+      },
+      {
+        "text": "I tried with perfect measurements today. A the brownie is super yummy, perfect n best. Give a try",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "the brownie is super yummy, perfect n best"
+          }
+        ]
+      },
+      {
+        "text": "Just baked these and they're in the oven. NOW I realise I used drinking chocolate powder instead of cocoa powder......aagh! The tins looked almost alike. I await in trepidation...... Okay, I'm back. They were only in for 30 mins but were really smelling exactly what they were....burnt around the edges. When it cools my husband and I will sample the centre and see if it's redeemable. I think the extra sugar in the drinking chocolate powder skewed everything badly. I will try your gorgeous recipe, the right way, when I've recovered from the trauma.",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "negative",
+            "mention": "used drinking chocolate powder instead of cocoa powder"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "negative",
+            "mention": "smelling exactly what they were....burnt around the edges"
+          }
+        ]
+      },
+      {
+        "text": "I made this brownie following your recipe.. It's good and fudge but it's very very sweet.. I'll remake this recipe with half grams of sugar",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "It's good and fudge"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I'll remake this recipe with half grams of sugar"
+          }
+        ]
+      },
+      {
+        "text": "I've made his original recipe of these brownies, and they were fantastic. The differences in the original were: Instead of 2c of sugar (1c sugar, 1c brown sugar); instead of 1.5c chopped chocolate (1.5c dark chocolate chips); instead of 1t of espresso grounds (1T of coffee). All else is the same",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they were fantastic"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "differences in the original recipe"
+          }
+        ]
+      },
+      {
+        "text": "Love the brownies and love your cool cooker",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Love the brownies"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "love your cool cooker"
+          }
+        ]
+      },
+      {
+        "text": "His German chocolate cake recipe (with my mother's coconut pecan icing) is the BEST!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "is the BEST"
+          }
+        ]
+      },
+      {
+        "text": "Any idea what would happen if I used neutral oil instead of the butter",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "what would happen if I used neutral oil instead of the butter"
+          }
+        ]
+      },
+      {
+        "text": "Thanks For Your Recipes this morning I'm making it ohhh so delicious GBU",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thanks For Your Recipes"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "ohhh so delicious"
+          }
+        ]
+      },
+      {
+        "text": "Did this last year, it was a huge success. Ppl were asking, and I referred back immediately to John with confidence",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "it was a huge success"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I referred back immediately to John with confidence"
+          }
+        ]
+      },
+      {
+        "text": "Just tried this, but added only 200g of sugar…. But jeeezzzzz it's soooo goood! thank you!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it's soooo goood"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "added only 200g of sugar"
+          }
+        ]
+      },
+      {
+        "text": "the best recipe! And I'm sticking to it🥹 thank you!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "the best recipe"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I'm sticking to it"
+          }
+        ]
+      },
+      {
+        "text": "I have tried this recipe…. and this is the most delicious brownie I have ever made",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "this is the most delicious brownie I have ever made"
+          }
+        ]
+      },
+      {
+        "text": "I love dark chocolate brownies. I've never seen such dark, gooey, chocolate dream brownies as yours. Thank you for this fantastic looking brownie recipe!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "such dark, gooey, chocolate dream brownies"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you for this fantastic looking brownie recipe"
+          }
+        ]
+      },
+      {
+        "text": "I'm 13 and these recipes are very foolproof",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "these recipes are very foolproof"
+          }
+        ]
+      },
+      {
+        "text": "I just wanna thank you so much for sharing this recipe! My family went bonkers over these brownies! So scrumptious.",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "thank you so much for sharing this recipe"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "My family went bonkers over these brownies"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "So scrumptious"
+          }
+        ]
+      },
+      {
+        "text": "Will try this and I will update on how well it turned out\nEdit: it turned out amazing I love it i will recommend everyone to try it out and see how good they are i have tried many brownie recipes but this one by far is the best one I have tried.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it turned out amazing"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I will recommend everyone to try it out"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "this one by far is the best one I have tried"
+          }
+        ]
+      },
+      {
+        "text": "This is my go-to recipe! Thank you so much for creating it!!",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "This is my go-to recipe"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you so much for creating it"
+          }
+        ]
+      },
+      {
+        "text": "I used 3 jumbo eggs. Now I’m wondering if I should have just done 2? Batter was a little bit looser than yours . I’ll let you know how they come out!! \nUpdate : they came out amazing!! Everyone loved them! Fudgiest most amazing brownies ever!!!",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "I’m wondering if I should have just done 2 jumbo eggs"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Fudgiest most amazing brownies ever"
+          }
+        ]
+      },
+      {
+        "text": "HI HI SINCE I FOUND YOUR VIDEOS YOU'RE MY BEST PASTRY CHEF, LOVE YOUR EASY RECIPE, THANKS SO MUCH. HAPPY COOKING, YOUR IRISH SODA BREAD WOW .. THANKS AGAIN",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "YOU'RE MY BEST PASTRY CHEF"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "LOVE YOUR EASY RECIPE"
+          }
+        ]
+      },
+      {
+        "text": "Hope you liked the video these are the ingredients:\n226g melted butter \n75g coco powder \n300g sugar \n3 large eggs\n1tbsp vanilla extract\n1tsp salt\n1 cup plain white flour",
+        "aspects": [
+          {
+            "category": "Recipe Ingredients",
+            "sentiment": "neutral",
+            "mention": "Detailed list of ingredients provided"
+          }
+        ]
+      },
+      {
+        "text": "I have been watching brownie and brownie cookie recipes for a couple of days now and this is the second video on your channel that I am watching. Thank you for simple recipes with simple ingredients and well-explained directions. I also like how you explain why to do or not to do something and not talking to us like we are idiots but also not assuming that we have the skills, technique, and equipment of highly-rated professional chefs. These brownies look fudgy and chewy just how I like them and can not wait to make them!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you for simple recipes with simple ingredients and well-explained directions"
+          },
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "positive",
+            "mention": "I also like how you explain why to do or not to do something"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "These brownies look fudgy and chewy"
+          }
+        ]
+      },
+      {
+        "text": "hi! is the old brownie recipe still available somewhere? having a hard time dissolving the sugar with this one and my family and I really loved that recipe!",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "is the old brownie recipe still available somewhere?"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "my family and I really loved that recipe"
+          }
+        ]
+      },
+      {
+        "text": "Is it okay to put granulated sugar in hot melted butter?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Is it okay to put granulated sugar in hot melted butter?"
+          }
+        ]
+      },
+      {
+        "text": "Someone commented that two sticks of butter was too much and that one stick worked better. Should I stick to your recipe or is one stick better?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Should I stick to your recipe or is one stick better?"
+          }
+        ]
+      },
+      {
+        "text": "I found some Habanero sugar at a spice and tea shop that is fantastic sprinkled on brownies before baking.",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "positive",
+            "mention": "Habanero sugar is fantastic sprinkled on brownies before baking"
+          }
+        ]
+      },
+      {
+        "text": "You are so much fun, John! I think my favorite part is your pure enjoyment of that first bite.",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "You are so much fun, John"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "your pure enjoyment of that first bite"
+          }
+        ]
+      },
+      {
+        "text": "Thank you so much for this wonderful recipe. The instant espresso is an amazing idea btw",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you so much for this wonderful recipe"
+          },
+          {
+            "category": "Recipe Ingredients",
+            "sentiment": "positive",
+            "mention": "The instant espresso is an amazing idea"
+          }
+        ]
+      },
+      {
+        "text": "Thank you for this’s receipt. We’re love ️",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you for this’s receipt"
+          }
+        ]
+      },
+      {
+        "text": "If there's a lot of mixing needed to get the right top, and it's not possible to over-mix before the flour goes in, why not use an electric mixer during the early stages?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "why not use an electric mixer during the early stages?"
+          }
+        ]
+      },
+      {
+        "text": "The best recipe I've tried. The brownies were lovely",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "The brownies were lovely"
+          }
+        ]
+      },
+      {
+        "text": "And now I need a recipe without coffee",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "I need a recipe without coffee"
+          }
+        ]
+      },
+      {
+        "text": "The best brownies I have ever made!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "The best brownies I have ever made"
+          }
+        ]
+      },
+      {
+        "text": "I am trying this recipe with a tweak for health reasons. I used whole wheat flour and 1 cup of local honey and half a cup of sugar. I love my baked goods but I can’t handle overly sweet so testing this out. Will report back and my little assistant will let you all know if it’s a thumbs up",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I used whole wheat flour and 1 cup of local honey and half a cup of sugar"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "Will report back and my little assistant will let you all know if it’s a thumbs up"
+          }
+        ]
+      },
+      {
+        "text": "Waiting for it to come out of the oven. Hope it'll be delish. My batter was kinda thick, is that okay?\nEdit: Also, I replaced about half of the butter (I used salted and added 2 pinches later on) with oil and didn't add the chocolate chips, but added a few almonds along with a teaspoon and a half or so of Nutella.",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "My batter was kinda thick, is that okay?"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I replaced about half of the butter with oil and added a few almonds and Nutella"
+          }
+        ]
+      },
+      {
+        "text": "No baking powder??\nEdit: leave baking powder, I made these and they were delicious but just make sure to use less sugar and chocolate it was too much for my family",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "No baking powder??"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "use less sugar and chocolate"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "I made these and they were delicious"
+          }
+        ]
+      },
+      {
+        "text": "I’m going to make this recipe today. The only thing I’m going to change is using browned butter instead of just melted. And add some walnuts \n\nBig fan of this channel & John",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "using browned butter instead of just melted and adding some walnuts"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Big fan of this channel & John"
+          }
+        ]
+      },
+      {
+        "text": "Hey man I am 10 years old and I made these and…HOLY CRAP THEY'RE GOOOOD and they're perfect for a starter baker (WHICH I AM NOT!!!) and the directions are so easy to follow, definitely worth writing down in my recipe book",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "HOLY CRAP THEY'RE GOOOOD"
+          },
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "positive",
+            "mention": "the directions are so easy to follow"
+          }
+        ]
+      },
+      {
+        "text": "Thank you for sharing your brownie recipe I love it!!!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you for sharing your brownie recipe"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "I love it"
+          }
+        ]
+      },
+      {
+        "text": "Hi John, i just tried your recipe, it was amazing. But i may have done a small mistake somewhere as my brownies turned out to be a little hard on the sides. The center was perfect and moist but just tough on the edges. \nPlease let me know where I might have made a mistake, so I can improve.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "The center was perfect and moist"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Please let me know where I might have made a mistake"
+          }
+        ]
+      },
+      {
+        "text": "Thanks so much, I prefer to bake and cook from scratch as much as possible- beginner phase",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thanks so much"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "I prefer to bake and cook from scratch as much as possible"
+          }
+        ]
+      },
+      {
+        "text": "Bro you're all I watch. Best baker. Thank you.",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Best baker. Thank you"
+          }
+        ]
+      },
+      {
+        "text": "Thank you for explaining the process. I am a total beginner at baking; this video helped me bake the most delicious brownies I have ever made.",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you for explaining the process"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "the most delicious brownies I have ever made"
+          }
+        ]
+      },
+      {
+        "text": "I can't wait to try these! Every single recipe that I have tried from you is absolutely spot on and delicious. I like that you tell each ingredient and the amount as you are filming and making it. I also enjoy watching your little messes and funny parts. You keep it real. The only thing I would change is I would add walnuts and sprinkle with powdered sugar after cooled.",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Every single recipe that I have tried from you is absolutely spot on and delicious"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I would add walnuts and sprinkle with powdered sugar after cooled"
+          }
+        ]
+      },
+      {
+        "text": "For those wondering, I replaced the white sugar with brown sugar and they taste just as good and amazing",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I replaced the white sugar with brown sugar"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they taste just as good and amazing"
+          }
+        ]
+      },
+      {
+        "text": "This is the most immaculate brownie recipe I've ever tried tysm!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "the most immaculate brownie recipe I've ever tried"
+          }
+        ]
+      },
+      {
+        "text": "These brownies are AMAZING!! Literally the best brownies I have ever had!!!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Literally the best brownies I have ever had"
+          }
+        ]
+      },
+      {
+        "text": "Tried out your recipe today. It was so fudgy and soft. Everyone loved it. You are truly a legend.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "It was so fudgy and soft"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Everyone loved it"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "You are truly a legend"
+          }
+        ]
+      },
+      {
+        "text": "Your recipes is the only one that I trust for making foods delicious",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Your recipes is the only one that I trust"
+          }
+        ]
+      },
+      {
+        "text": "Made these like 3 times already lol your recipes never disappoint",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Made these like 3 times already"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "your recipes never disappoint"
+          }
+        ]
+      },
+      {
+        "text": "John, you’re a legend for this one. Amazing recipe.",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "John, you’re a legend for this one"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Amazing recipe"
+          }
+        ]
+      },
+      {
+        "text": "This is a honest review these were so good I made them today well I didn't have oven so I did it in microwave but the results are so good this is the first time I baked smth and this was legit so good",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "these were so good"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I didn't have an oven so I did it in a microwave"
+          }
+        ]
+      },
+      {
+        "text": "These look amazing! Please clarify- your video says to use 1 teaspoon of espresso powder, but the recipe link says 1 tablespoon. Which amount is best? Thanks!",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "your video says 1 teaspoon of espresso powder, but the recipe link says 1 tablespoon"
+          }
+        ]
+      },
+      {
+        "text": "The way you tell your recipes makes us try them out even to the laziest of people like me haha",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "The way you tell your recipes makes us try them out"
+          }
+        ]
+      },
+      {
+        "text": "226 grams butter \n           75 grams Dutch processed unsweetened cocoa powder \nMelted chocolate ‍️‍‍\n      120 grams all purpose flour ",
+        "aspects": [
+          {
+            "category": "Recipe Ingredients",
+            "sentiment": "neutral",
+            "mention": "Detailed ingredient list provided"
+          }
+        ]
+      },
+      {
+        "text": "This might seem out of left field and a bit weird, but I love those knobs on the stove. I've only ever seen the base default knobs.",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "neutral",
+            "mention": "I love those knobs on the stove"
+          }
+        ]
+      },
+      {
+        "text": "Me and my sister actually made them they were amazing thanks kanell",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they were amazing"
+          }
+        ]
+      },
+      {
+        "text": "Just made these brownies for Thanksgiving and though I have no previous experience with baking, they came out perfect. Thank you for the easy to follow (and delicious, of course) recipe. Happy Thanksgiving",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they came out perfect"
+          },
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "positive",
+            "mention": "easy to follow recipe"
+          }
+        ]
+      },
+      {
+        "text": "I am making this tonight so wish me the best loved brownie smells in my home!",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "loved brownie smells in my home"
+          }
+        ]
+      },
+      {
+        "text": "Can you please create a cookbook with only desserts? I started watching you on YouTube when I came across your vanilla cake recipe. I haven't stopped. I also purchased your first cookbook. I made your brownies although I am not a brownie girl lol, now, I love having a brownie crumb over vanilla ice cream.",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Can you please create a cookbook with only desserts?"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I started watching you on YouTube"
+          }
+        ]
+      },
+      {
+        "text": "Question: why not use powdered sugar since it would dissolve better?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "why not use powdered sugar since it would dissolve better?"
+          }
+        ]
+      },
+      {
+        "text": "Great brownies, but when do u add the weed?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "when do u add the weed?"
+          }
+        ]
+      },
+      {
+        "text": "When I tell you how jaw dropping this recipe is.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "how jaw dropping this recipe is"
+          }
+        ]
+      },
+      {
+        "text": "I'm baking this recipe for the very first time. Can't wait for them to come out of the oven! YUMMMMM",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Can't wait for them to come out of the oven"
+          }
+        ]
+      },
+      {
+        "text": "These turned out fantastic the first time I used this recipe. I can tell I cooked them just a little too much because they were slightly cakey. But next time I know to shave a few minutes off the cooking time. 10/10 taste.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "10/10 taste"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "I cooked them just a little too much"
+          }
+        ]
+      },
+      {
+        "text": "Thanks John! One of our favorite desserts! Happy Thanksgiving to you and your cute family!",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thanks John"
+          }
+        ]
+      },
+      {
+        "text": "Can you use olive oil instead of butter?\n\nUpdate: you can if you use warm oil, and if you add another cup of flour, up to a half cup of milk, and use aluminum foil in a bread pan. They're still a little fudgy but they're also really soft and almost like air they melt in your mouth so fast and you're still left with a full feeling and chocolatey taste.\n\nYou can also choose not to add the chocolate chunks. It's really delicious. I made like 5-6 different batches and variations of this recipe.\n\nBUT WHATEVER YOU DO AT LEAST USE ALUMINUM FOIL!\n\nif you try just using butter or oil to coat the pan, it will cause the outside crust to sort of caramelize and it may end up sticking to the pan.",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Can you use olive oil instead of butter?"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "made like 5-6 different batches and variations"
+          }
+        ]
+      },
+      {
+        "text": "My husband is a big fan of chocolate brownies, and your recipe was a hit! Thank you, John, for the delicious recipe!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "your recipe was a hit"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you, John, for the delicious recipe"
+          }
+        ]
+      },
+      {
+        "text": "John, you are so wonderful. Your recipes make me so happy, they always turn out perfectly. Thank you.",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "John, you are so wonderful"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "they always turn out perfectly"
+          }
+        ]
+      },
+      {
+        "text": "This is by far the best brownie recipe I’ve ever done. I made it to be fudgy and it was just perfect! All your recipes are so simple to follow and work out so tasty thank you for this one!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "the best brownie recipe I’ve ever done"
+          },
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "positive",
+            "mention": "so simple to follow and work out so tasty"
+          }
+        ]
+      },
+      {
+        "text": "I made brownies for a friend, over-baked, and they turned out cakey. Fine for me, but the friend would like fudgy. Well, I put them in the fridge overnight because refrigeration makes things damp. It worked. They were fudgy the next morning.",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "put them in the fridge overnight because refrigeration makes things damp"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "They were fudgy the next morning"
+          }
+        ]
+      },
+      {
+        "text": "This is going to become my go to brownie recipe!",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "going to become my go-to brownie recipe"
+          }
+        ]
+      },
+      {
+        "text": "Lol you are using my favorite pan (same brand and size) I am definitely making these tonight",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "you are using my favorite pan"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "I am definitely making these tonight"
+          }
+        ]
+      },
+      {
+        "text": "Tried this today and it came out well.. whole family enjoyed the brownie..thanks",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it came out well"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "whole family enjoyed the brownie"
+          }
+        ]
+      },
+      {
+        "text": "I followed the steps but forgot to sift the cocoa powder",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "forgot to sift the cocoa powder"
+          }
+        ]
+      },
+      {
+        "text": "I also tried them it was tasty",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it was tasty"
+          }
+        ]
+      },
+      {
+        "text": "I just tasted the batter with my finger and I already know that this is my favorite recipe, even though the brownies aren’t done baking",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "this is my favorite recipe"
+          }
+        ]
+      },
+      {
+        "text": "7/10 I baked my first brownies with this recipe. First of all, SO FUDGY, CHOCOLATE-TY AND CHEWY. But I am not a fan of chocolate, and so is my family. I just thought it would be fun to bake as it looked easy and it was! ONE THING I DONT LIKE, it was WAYY TOO SWEET [according to my parents] but for me it was not that bad, i guess? Maybe because I have a sweet tooth. My dad said its insane to put that much sugar I'll definitely bake these next time but less sugar. My whole packet of sugar literally is gone now because too much sugar, i had to mix it with castor sugar that I had because i ran out of granulated.\n\nThe brownies reached my expectations. Crinkly, fudgy, chewy and on the inside is gooey with chocolate melts. Highly recommend.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "SO FUDGY, CHOCOLATE-TY AND CHEWY"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "WAYY TOO SWEET [according to my parents]"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Highly recommend"
+          }
+        ]
+      },
+      {
+        "text": "I am a huge fan of yours John. I just went to the store as soon as I saw this video go up without even watching because I knew it would work because it’s your recipe. And it did! These brownies just brought joy to my kids. Thank you John. And I just bought your book.",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I am a huge fan of yours John"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "These brownies just brought joy to my kids"
+          }
+        ]
+      },
+      {
+        "text": "I made these for the first time following the recipe 100% about a month ago and they came out perfect.\nI just tried making them again today but cut the sugar quantity from 2 cups to 1 cup because the first time it was a little too sweet. \nWould less sugar cause these brownies to come out in a cake texture? They came out not chewy at all and the whole thing is like a cake now",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they came out perfect"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "cut the sugar quantity from 2 cups to 1 cup"
+          },
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Would less sugar cause these brownies to come out in a cake texture?"
+          }
+        ]
+      },
+      {
+        "text": "Omg John I love all your recipes!!! ️ thank you for making everything feel so fun and easy to make",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I love all your recipes"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "making everything feel so fun and easy to make"
+          }
+        ]
+      },
+      {
+        "text": "I made these (using your previous video) last weekend, and added in a scoop of Vegemite and omitted the salt and coffee, and used a bit less chocolate. Idk if you're familiar with Vegemite or Marmite, but it's a yeast extract that brings an incredible umami flavour and goes beautifully with 70% dark chocolate. So, so good - the only thing was I lost the smooth crackly top that I got when I followed your recipe precisely, so I'm going to have to experiment again with the quantities.",
+        "aspects": [
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "added in a scoop of Vegemite and omitted the salt and coffee"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "brings an incredible umami flavour"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "neutral",
+            "mention": "lost the smooth crackly top"
+          }
+        ]
+      },
+      {
+        "text": "Omg the brownies turned out just like you said.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "the brownies turned out just like you said"
+          }
+        ]
+      },
+      {
+        "text": "I like that you explain the reasons behind some of the steps that people who never cook or bake may think is a preference thing but if you skip them the brownie is ruined . Thank you",
+        "aspects": [
+          {
+            "category": "Recipe Instructions",
+            "sentiment": "positive",
+            "mention": "you explain the reasons behind some of the steps"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you"
+          }
+        ]
+      },
+      {
+        "text": "Awesome. My 3 grandsons are crazy for brownies. Gonna make this for all of us for Thanksgiving. Thank you SO VERY MUCH!",
+        "aspects": [
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "My 3 grandsons are crazy for brownies"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "Gonna make this for all of us for Thanksgiving"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you SO VERY MUCH"
+          }
+        ]
+      },
+      {
+        "text": "THESE ARE FRIGGIN INCREDIBLE!! I've tried multiple channels' brownie recipes and none have come ANYWHERE near these! I don't know exactly how long I cooked it, but holy frick, it's so moist and fudgy and... and... I'm at a loss for words. Best brownie I've ever eaten, hands down. I also put some Ghirardelli raspberry filled chocolates in it and that sent its deliciousness factor through the roof!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "so moist and fudgy"
+          },
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Best brownie I've ever eaten"
+          },
+          {
+            "category": "Adjustments/Modifications",
+            "sentiment": "positive",
+            "mention": "put some Ghirardelli raspberry filled chocolates in it"
+          }
+        ]
+      },
+      {
+        "text": "You mentioned 1 cup to be 226 grams for the butter and then 1 cup of flour to be 120 grams, I’m confused here, I thought all measuring cups had thesame quantities",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "I thought all measuring cups had the same quantities"
+          }
+        ]
+      },
+      {
+        "text": "If I only have approx half a stick of butter, can I use milk for the rest? Or are there any other substitutes I might have at home?",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "can I use milk for the rest of the butter?"
+          }
+        ]
+      },
+      {
+        "text": "Thank you for this recipe my children loves it. Very delicious & fudgy 10/10! God bless",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "Very delicious & fudgy"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "my children loves it"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "Thank you for this recipe"
+          }
+        ]
+      },
+      {
+        "text": "Yay I made this it looks delicious just put it in the oven",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "it looks delicious"
+          }
+        ]
+      },
+      {
+        "text": "WOW!! I want one right now!! I’ve made these and they’re great!!",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "they’re great"
+          }
+        ]
+      },
+      {
+        "text": "I'm really like your cooking , baking and the way talk and joking in video it makes me enjoy to watch ur video . Your are cool 🫰my first comment",
+        "aspects": [
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I'm really like your cooking , baking and the way talk"
+          },
+          {
+            "category": "User Experience",
+            "sentiment": "positive",
+            "mention": "it makes me enjoy to watch ur video"
+          }
+        ]
+      },
+      {
+        "text": "Update: I made the fudgiest brownies using a Betty Crocker recipe from the 70s. It was the first time I didn't make cake. I mixed the shortening and chocolate and sugar in my KA added the eggs and whipped. Measured the flour keeping it fluffy, then folded the flour until just enough. WHAT A DIFFERENCE.\n\nThat said, from someone who hates coffee, espresso powder absolutely makes things taste like coffee to non coffee drinkers. Those brownies have been ruined.\n\nI love your show and came on here for tips before I bake brownies tonight in my tiny kitchen.",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "negative",
+            "mention": "espresso powder absolutely makes things taste like coffee to non coffee drinkers"
+          },
+          {
+            "category": "Sentiments Towards the Creator",
+            "sentiment": "positive",
+            "mention": "I love your show"
+          }
+        ]
+      },
+      {
+        "text": "It’s literally perfect",
+        "aspects": [
+          {
+            "category": "Taste/Texture",
+            "sentiment": "positive",
+            "mention": "It’s literally perfect"
+          }
+        ]
+      },
+      {
+        "text": "Is your oven fan assisted. Just need to know if I should set my fan assisted oven to 180C or 160C",
+        "aspects": [
+          {
+            "category": "Questions/Clarifications",
+            "sentiment": "neutral",
+            "mention": "Is your oven fan assisted?"
+          }
+        ]
+      }
+    ]
+  }
+  

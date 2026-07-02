@@ -1,0 +1,694 @@
+[
+    {
+        "text": "We went again and sat at the bar this time, I had 5 pints of guinness and not one buy-back, I ordered a basket of onion rings and there were about 5 in the basket, the rest was filled with crumbs, the chili was not even edible.",
+        "aspects": [
+            {"aspect": "place", "sentiment": "neutral"},
+            {"aspect": "food", "sentiment": "negative"},
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The food was good, but it's not worth the wait--or the lousy service.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "positive"},
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "price", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Waiter took our drink order and then we didn't see him for 15 minutes.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "It does get crowded with plenty of blue shirted cigar smoking wannabes, so make a reservation.",
+        "aspects": [
+            {"aspect": "ambience", "sentiment": "negative"},
+            {"aspect": "place", "sentiment": "neutral"}
+        ]
+    },
+    {
+        "text": "After hearing all of the specials, you would think they were twice as much as the menu prices (as other places do).",
+        "aspects": [
+            {"aspect": "menu", "sentiment": "negative"},
+            {"aspect": "price", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Our waitress took our order and then NEVER came back to our table.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "When we sat down, the waiter barely looked in our direction and abruptly shoved our menus on the table.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "they continue to expand their garden space, w/out expanding their kitchen and cannot provide even adequate service.",
+        "aspects": [
+            {"aspect": "place", "sentiment": "neutral"},
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Extremely RUDE servers who intially took our order and never returned with drinks or to see if we required anythign else.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "negative"},
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "1) Service is very slow and unattentive (10 minutes for our server to come by with our menus and to take our drink order, another 10 to bring the drinks/take our dinner order, you get the idea.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The Scene This stylish, golden-hued noodle house spiffs up a dull stretch of Sixth Avenue with a crowd ranging from Japanese visitors to NYU students taking advantage of full-flavored, sustaining soups at bargain prices.",
+        "aspects": [
+            {"aspect": "ambience", "sentiment": "positive"},
+            {"aspect": "place", "sentiment": "positive"},
+            {"aspect": "food", "sentiment": "positive"},
+            {"aspect": "price", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "the waiters had a really hard time remembering to bring drinks, and when they did they were not what was ordered.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "It is now nothing but an overpriced establishment that is shamelessly riding on the coat tails of its past.",
+        "aspects": [
+            {"aspect": "price", "sentiment": "negative"},
+            {"aspect": "place", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "We arrived at 5:30 and had leave at 7:30 without dessert or coffee because the kitchen took insanely long between courses.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "food", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "It is so difficult to choose a favorite on the menu, because the bolognese, the salmon, the chicken with mushroom, and the telephono are all too good to rank.",
+        "aspects": [
+            {"aspect": "menu", "sentiment": "positive"},
+            {"aspect": "food", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "Having dined there over a half-dozen I have tried everything on the menu but depending on what night, time and who is taking your order, be prepared for loud, smokey (it is a bar afterall) and herbed waitstaff.",
+        "aspects": [
+            {"aspect": "menu", "sentiment": "positive"},
+            {"aspect": "ambience", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "I made reservations one week in advance and although I had to change it at the last minute, the hostess was very accommodating and we got seated promptly upstairs overlooking the Buddha.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "positive"},
+            {"aspect": "place", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "The drinks, served with a little extra in the shaker, anticipate the aptly executed menu, which emphasizes comfort foods of a bygone era--veggies, for example, include crisp Brussels sprouts, shredded beets and bubbling-hot scalloped potatoes.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "positive"},
+            {"aspect": "menu", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "Needless to say, we weren't suprised when our server told us he never put our appetizer order in.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "I ordered chicken vindaloo, the delivery took about an hour, and it cost me $13 with tip.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "positive"},
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "price", "sentiment": "neutral"}
+        ]
+    },
+    {
+        "text": "Went with my father without a reservation, and the maitre d' was very nice and sat us within 15 minutes of our arrival - we had been told that the wait would be an hour (this may be unusual).",
+        "aspects": [
+            {"aspect": "service", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "The cooks in the front are very friendly and helpful.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "The atmosphere was wonderful, however the service and food were not.",
+        "aspects": [
+            {"aspect": "ambience", "sentiment": "positive"},
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "food", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "no dish on brunch menu over $11 - definitely worth the price.",
+        "aspects": [
+            {"aspect": "price", "sentiment": "positive"},
+            {"aspect": "menu", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "Id say a little better than most Thai Ive eaten, and the menu had an astounding selection, which isnt bad for such a reasonable price.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "positive"},
+            {"aspect": "menu", "sentiment": "positive"},
+            {"aspect": "price", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "However the manager, who refused to come to our table to discuss it, said we were wrong (through the poor waitress) and would not replace our bottle.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "negative"},
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Don't know about the rest of the food, but the burgers are one of New York's hidden treats.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "Yes, hard not to look at the waitresses (and they're really good servers), but as I'm reminded by everyone who knows Hooters, they don't rank anywhere near the girls at the Hooters locations South of the ol' Mason-Dixon.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "positive"},
+            {"aspect": "miscellaneous", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The drinks were really good- albeit a bit weird served out of baby bottles.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "positive"},
+            {"aspect": "miscellaneous", "sentiment": "neutral"}
+        ]
+    },
+    {
+        "text": "From a solid homey, affordable Italian menu in a warm, exhileratingly crowded location they've gone to a 30$ minimum per person on opera nights with a quality of food and drink that just does not warrant the prices.",
+        "aspects": [
+            {"aspect": "ambience", "sentiment": "positive"},
+            {"aspect": "menu", "sentiment": "positive"},
+            {"aspect": "price", "sentiment": "negative"},
+            {"aspect": "food", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The space is a bit cramped and the waitress seemed to avoid eye contact at all costs, however, I would recommend you go just for the food.",
+        "aspects": [
+            {"aspect": "place", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"},
+            {"aspect": "food", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "for instance, i sat next to this couple who experienced problems with their food and the asked to speak to a manager.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The piano guy isn't there all the time, but when he is it's a great addition to the meal.",
+        "aspects": [
+            {"aspect": "ambience", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "The brasserie-style menu remains relatively unchanged, featuring classic bistro choices like frisee salad with bacon, blue cheese and a poached egg, steak tartare, moules and steak frites, and various burgers and sandwiches.",
+        "aspects": [
+            {"aspect": "menu", "sentiment": "positive"},
+            {"aspect": "food", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "i got a steak special that was way overpriced ($12 more then the steak on the menu and no warning from the waitress) and it was cooked to the wrong temperature.",
+        "aspects": [
+            {"aspect": "price", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"},
+            {"aspect": "food", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Service was good throughout the dinner but when it came time to get the check, we waited over 20 min.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "mixed"}
+        ]
+    },
+    {
+        "text": "One friend had the steak which he didn't care for, but after waiting so long to be seated he was hungry.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "negative"},
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The waiter set down my companion's meal and didn't return with my dish for some time.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "This set off our critical eye: ceramic bowls having edges higher than the table votives hid the fact that the food was presented cafeteria-style; a rolling-eyed waiter pushing water; the awkward Italian menue gimmick; and the bill.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"},
+            {"aspect": "menu", "sentiment": "negative"},
+            {"aspect": "price", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "I thought it was great, best service I've ever had in a long time.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "After admitting that the items on the bill were not in line with the menu, the manager reserved the right to price at her own discretion!",
+        "aspects": [
+            {"aspect": "price", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Was greeted and seated with no attitude from the host and hostess, despite no reservation.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "Ten minutes later the manager relented and dropped off a glass of water with an upturned nose.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Although Nobu requires a 2-3 month advanced reservations, it's worth the wait!",
+        "aspects": [
+            {"aspect": "place", "sentiment": "positive"},
+            {"aspect": "service", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "they waited to get us water after they took our food orders, which took the waitstaff a long time to do.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Be careful with the waiting list- the hostess skipped over our party on the list as we sat waiting for a table, for over an hour.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The Food The owners' visits to farmers' markets in Brooklyn drive the ingredient-centric New American menu, which changes about once a month.",
+        "aspects": [
+            {"aspect": "menu", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "We tried to get the manager who flatly refused to come to our table and discuss the problem with us.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "negative"},
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "After scrunching into the tiny bar area and ordering a drink, I was annoyed but couldn't help but notice the handsome bartender having a tete-a-tete with another French-speaking cutie.",
+        "aspects": [
+            {"aspect": "place", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "neutral"}
+        ]
+    },
+    {
+        "text": "Based on the menu prices, the value of the buffet is made up before you even hit the buffet with the appetizers that are served to the table.",
+        "aspects": [
+            {"aspect": "price", "sentiment": "positive"},
+            {"aspect": "menu", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "Fried appetizers, tuna steak and other dishes are also available, as well as an assortment of sakes, graphed on the menu according to flavor components.",
+        "aspects": [
+            {"aspect": "menu", "sentiment": "positive"},
+            {"aspect": "food", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "The place was empty with three waiters working and it still took 15 minutes to bring us menus.",
+        "aspects": [
+            {"aspect": "place", "sentiment": "negative"},
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Our waitress kept forgetting our drinks.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "the service was horrible then and the food was decent.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "food", "sentiment": "neutral"}
+        ]
+    },
+    {
+        "text": "The place is not meant for in house dining, but if you want to grab a meal on the go, this is the perfect choice.",
+        "aspects": [
+            {"aspect": "place", "sentiment": "neutral"},
+            {"aspect": "food", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "The bar area was fairly crowded but service remained friendly and efficient.",
+        "aspects": [
+            {"aspect": "place", "sentiment": "negative"},
+            {"aspect": "service", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "Our last experience: Waiting for a table at the bar (we always make reservations), the bartender ignored us until my husband intervened with one of the owners.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Waitress was nice but didnt know some specials and was alittle off, think she was new.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "neutral"},
+            {"aspect": "service", "sentiment": "neutral"}
+        ]
+    },
+    {
+        "text": "Yes it's pricey for counter service, sawdust floors and deafening chatter but the pastrami makes it all worth it.",
+        "aspects": [
+            {"aspect": "price", "sentiment": "negative"},
+            {"aspect": "place", "sentiment": "negative"},
+            {"aspect": "food", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "For the prices, the food is decidedly lackluster, and the service, unless you are a regular, can be quite rude.",
+        "aspects": [
+            {"aspect": "price", "sentiment": "negative"},
+            {"aspect": "food", "sentiment": "negative"},
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "the waitress never asked us how the food was or if we needed anything.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "My complaint was with the service-- our waitress was rather pushy and visibly annoyed when we didn't order appetizers or dessert.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The bartender virtually ignored us while we waited, took 15 minutes to get drinks.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The only saving grace is the sweet tea - but even that isn't worth the wait.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "neutral"},
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Then the waitress became upset when she returned with the drinks and we didn't stop our conversations quick enough to remind her who had ordered what only 5 minutes prior.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "negative"},
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Oh, and kudos to the hostess who appeared out of thin air with extra napkins just moments after a glass of water was knocked over - she's upping the bar on service here.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "positive"},
+            {"aspect": "service", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "I have reservations about the all you can eat deal, however -- the choices are fairly limited and you can probably order more food than you can eat for less than $18 by just going off the menu.",
+        "aspects": [
+            {"aspect": "menu", "sentiment": "negative"},
+            {"aspect": "price", "sentiment": "neutral"}
+        ]
+    },
+    {
+        "text": "I especially recommend ordering the duck, foie gras, and beef cheeks although it's probably hard to go wrong with anything on the menu.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "positive"},
+            {"aspect": "menu", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "The noise here is so bad that people entered and left without ordering and they lowered the lights during the dinner.",
+        "aspects": [
+            {"aspect": "ambience", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Sure, the burgers are good, but not good enough to make up for the abominable service and disgusting, filthy atmosphere.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "positive"},
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "ambience", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The waiter appeared promptly, took our order, bought us drinks and was never to be seen again.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "mixed"}
+        ]
+    },
+    {
+        "text": "Our waitress had no clue about the menu and (after we had ordered a bottle of wine) told us the kitchen was closing and stood guard until we ordered.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "negative"},
+            {"aspect": "menu", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The brunch entrees were shockingly overpriced, even for the area, and especially given the food quality.",
+        "aspects": [
+            {"aspect": "price", "sentiment": "negative"},
+            {"aspect": "food", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Upon walking in and noticing the exposed red brick wall and the white tableclothes and and huge rack of various wines behind the bar, I felt like I was in a truly authentic Italian restaurant.",
+        "aspects": [
+            {"aspect": "ambience", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "Staff wouldn't take no for an answer on pitchers of sangria.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "I went here all 4 years that I lived in the area, and being a not-so-loaded student, it was a great place to go for some good sushi and a very pleasant comforting atmosphere.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "positive"},
+            {"aspect": "ambience", "sentiment": "positive"},
+            {"aspect": "place", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "From the outside this place looks cute, however, once inside loud as a disco!",
+        "aspects": [
+            {"aspect": "place", "sentiment": "positive"},
+            {"aspect": "ambience", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The portions were very big for appetizers (calimari and fried zucchini) but average for the entrees (chicken marsala, spaghetti w/ meatballs) and very expensive of course.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "mixed"},
+            {"aspect": "price", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "service was attentive at the beginning but the waiter lost us towards the end and we had to flag them down for the check.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "mixed"}
+        ]
+    },
+    {
+        "text": "Then the waiter came back for our food order at 10, and we hadn't received our drinks yet.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Other than making the grill flame at the beginning our hibatchi chef didnt put on much of a show - no flipping stuff into is hat or our plates - so if that is your thing go to Benihani.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Check out the little room with the red seats and candles and get a green dragon saketini - it's worth the NYC cocktail price ($14).",
+        "aspects": [
+            {"aspect": "ambience", "sentiment": "positive"},
+            {"aspect": "price", "sentiment": "neutral"}
+        ]
+    },
+    {
+        "text": "The waiter accidently spilled water on our table, and the manager checked up on our meal periodically and offered us a free after diner drink.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "mixed"},
+            {"aspect": "service", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "When the spastic waiter finally stopped by our table, we told him we were going to order everything at once b/c we were getting pretty hungry.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "My mother and I had our chairs bumped over a dozen times by hasty waiters.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "negative"},
+            {"aspect": "ambience", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "After all that, it is average food at best with huge bill at the end.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "neutral"},
+            {"aspect": "price", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "However, when our waitress realized her faux pas, an extra glass of wine was sent to our table and all was forgiven.",
+        "aspects": [
+            {"aspect": "staff", "sentiment": "positive"},
+            {"aspect": "service", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "when I came back for brunch a week or so later, I was told that the marscapone version was no longer being served, because there was a new cook.",
+        "aspects": [
+            {"aspect": "menu", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "neutral"}
+        ]
+    },
+    {
+        "text": "The Food Though much of the menu draws from border countries with the likes of pasta, cordon bleu and schnitzel, dishes that involve cheese are best.",
+        "aspects": [
+            {"aspect": "menu", "sentiment": "positive"},
+            {"aspect": "food", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "D, who can't decide on a single dish, the tapas menu allowed me to express my true culinary self.",
+        "aspects": [
+            {"aspect": "menu", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "We weren't even offered a dinner menu and the waitress didn't even notice that we wanted drinks until after I ordered them from the bar myself.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The food was good overall, but unremarkable given the price.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "neutral"},
+            {"aspect": "price", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "overall the food we ordered (pancit luglug, chicken adobo, romy's ribs, lumpia shanghai, a bowl of green soup that resembles the polyjuice potion harry potter drank) was not screaming with taste.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "On the top of everything at the end of the dinner the waiter gave us the wrong check.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "The Food There's a Mediterranean bent to the menu--hummus, babaganoush and stuffed grape leaves are offered, as well as Moroccan chicken and spicy Merguez lamb sausage.",
+        "aspects": [
+            {"aspect": "menu", "sentiment": "positive"},
+            {"aspect": "food", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "Our food took so long to be served that we nearly missed our curtain.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "They brought fresh naan to the table as well as a kind of crepe filled with potatoes that was cooked on a griddle set up by the window.",
+        "aspects": [
+            {"aspect": "food", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "When we finally ordered our wine, the waitress brought the bottle of wine over with ONE GLASS MISSING - meaning, we'd have to wait even longer for the final glass to arrive - which were all piping hot from the dishwasher.",
+        "aspects": [
+            {"aspect": "service", "sentiment": "negative"},
+            {"aspect": "staff", "sentiment": "negative"}
+        ]
+    },
+    {
+        "text": "Went to Gallaghers for the first time on a Saturday night, had no problem getting reservations, great staff-great service.",
+        "aspects": [
+            {"aspect": "place", "sentiment": "positive"},
+            {"aspect": "staff", "sentiment": "positive"},
+            {"aspect": "service", "sentiment": "positive"}
+        ]
+    },
+    {
+        "text": "The last time I was there (last week) our food took a little too long and a manager promptly apologized and offered to comp our desserts (not expected but appreciated).",
+        "aspects": [
+            {"aspect": "service", "sentiment": "mixed"},
+            {"aspect": "staff", "sentiment": "positive"}
+        ]
+    }
+]
